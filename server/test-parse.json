@@ -1,0 +1,17 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "parseText",
+  "params": {
+    "text": "こんにちは",
+    "scanLength": 16,
+    "useInternalParser": true,
+    "useMecabParser": false,
+    "optionsContext": {
+      "index": 0,
+      "profile": "default"
+    }
+  }
+}
+
+
